@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author saqib khan
- */
+
 public class Book_Ticket extends javax.swing.JFrame {
 
     /**
