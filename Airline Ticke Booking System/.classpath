@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="netbeans folder"/>
+	<classpathentry kind="lib" path="add jar folder/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="add jar folder/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="add jar folder/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
